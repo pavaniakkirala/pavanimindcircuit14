@@ -16,13 +16,13 @@
 
 	<distributionManagement>
 		 <snapshotRepository>
-		    <id>NexusRepo</id>
-		    <url>http://ec2-44-202-247-118.compute-1.amazonaws.com:8081/repository/batch14-repo-snapshots/</url>
+		    <id>Nexusrepo</id>
+		    <url>http://ec2-54-159-18-136.compute-1.amazonaws.com:8081/repository/snapshot-repo/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>NexusRepo</id>
-		    <url>http://ec2-44-202-247-118.compute-1.amazonaws.com:8081/repository/batch14-repo-release/</url>
+		    <id>Nexusrepo</id>
+		    <url>http://ec2-54-159-18-136.compute-1.amazonaws.com:8081/repository/release-repo/</url>
 		</repository>
   	</distributionManagement>
 
