@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>my name is pavani akkirala </title>
+<title>Hello this is my first jenkins project</title>
 </head>
 <body>
-<h1>Welcome to batch15 app </h1>
+<h1>Welcome to batch14 jenkins project app </h1>
 </body>
 </html>
