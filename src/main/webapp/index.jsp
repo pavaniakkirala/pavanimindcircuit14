@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hello this is my first jenkins project</title>
+<title>My App</title>
 </head>
 <body>
-<h1>Welcome to batch14 jenkins project app </h1>
+<h1>Welcome to batch14 jenkins project app 
+Hello this is my first jenkins project</h1>
 </body>
 </html>
